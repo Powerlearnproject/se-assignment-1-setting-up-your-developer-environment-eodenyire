@@ -1,0 +1,110 @@
+Power Learn Project Software Development Program
+  
+Step-by-step guide to setting up my developer environment on Windows 11, starting from installing the operating system to configuring essential tools like Visual Studio Code, Git, and MySQL. This guide is designed for beginners, providing clear instructions and visual aids where necessary.
+
+Step-by-Step Guide to Setting Up Your Developer Environment
+1. Installing Windows 11
+Objective: Install Windows 11 as your operating system.
+
+Download Windows 11
+
+Go to Microsoft's official Windows 11 download page.
+Click on "Download now" and save the file to your computer.
+
+Create Installation Media
+
+You'll need a USB flash drive (at least 8GB) to create a bootable installation media.
+Download and run the Windows Media Creation Tool to create the installation media on your USB drive.
+
+Install Windows 11
+
+Insert the bootable USB drive into your computer.
+Restart your computer and boot from the USB drive (you may need to change the boot order in BIOS settings).
+Follow the on-screen instructions to install Windows 11.
+Choose your language, time and currency format, and keyboard or input method.
+Select "Install now" and proceed with the installation.
+
+Setup Windows 11
+
+Follow the prompts to customize settings such as region, keyboard layout, and network preferences.
+Sign in with your Microsoft account or create a local account.
+
+Complete Installation
+
+Once setup is complete, you're ready to move on to installing development tools.
+2. Installing Visual Studio Code
+Objective: Install Visual Studio Code as your integrated development environment (IDE).
+
+Download Visual Studio Code
+
+Go to Visual Studio Code's official website.
+Download the installer for Windows.
+
+Install Visual Studio Code
+
+Run the downloaded installer.
+Follow the installation wizard steps.
+Choose installation options like adding to PATH and creating a desktop shortcut.
+
+Open Visual Studio Code
+
+After installation, launch Visual Studio Code from the desktop shortcut or Start menu.
+Visual Studio Code is now installed and ready for use.
+
+3. Installing Git
+Objective: Install Git for version control.
+
+Download Git
+
+Go to Git's official website.
+Download the installer for Windows.
+
+Install Git
+
+Run the downloaded installer.
+Follow the installation wizard steps.
+Choose default settings unless you have specific preferences.
+
+Configure Git
+
+Open Git Bash or command prompt.
+Configure your name and email:
+arduino
+Copy code
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+Verify the configuration:
+css
+Copy code
+git config --global --list
+
+4. Installing MySQL
+Objective: Install MySQL for database management.
+
+Download MySQL
+
+Go to MySQL's official website.
+Download the MySQL Installer for Windows.
+
+Install MySQL
+
+Run the downloaded MySQL Installer.
+Choose "Developer Default" setup type for simplicity.
+Follow the installer steps to configure MySQL server and client tools.
+Set a root password and configure server options as needed.
+
+Verify MySQL Installation
+
+Open MySQL Command Line Client or MySQL Workbench.
+Log in with root credentials.
+Verify server status and execute basic queries to ensure MySQL is working correctly.
+
+Conclusion
+By following these step-by-step instructions, I have successfully set up my development environment on Windows 11, including installing the operating system, Visual Studio Code, Git, and MySQL. 
+This setup prepares me to start coding, debugging, and managing projects effectively. 
+ 
+
+
+
+
+
