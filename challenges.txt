@@ -1,0 +1,27 @@
+Power Learn Project Software Development Program
+
+Reflection on Setup Challenges and Strategies
+
+Setting up my developer environment on Windows 11 involved several challenges, primarily related to installation and configuration. Below, I detail these challenges and the strategies I employed to overcome them:
+
+Windows 11 Installation:
+
+Challenge: Creating a bootable USB drive was initially confusing, especially setting the correct boot order in BIOS.
+Strategy: I followed a step-by-step guide provided by Microsoft, which included using the Windows Media Creation Tool to ensure the USB drive was bootable. I consulted online forums and updated BIOS settings to prioritize USB boot.
+Visual Studio Code Installation:
+
+Challenge: During installation, I encountered a compatibility issue with another software that caused conflicts.
+Strategy: I researched the error message online and found that temporarily disabling the conflicting software allowed Visual Studio Code to install correctly. I ensured that all dependencies were resolved before proceeding.
+Git Configuration:
+
+Challenge: Configuring Git with my GitHub credentials and setting up SSH keys posed a challenge due to unfamiliarity with command-line interfaces.
+Strategy: I followed a tutorial that explained each step clearly, ensuring I understood the purpose of each command. I used Git Bash for simplicity and verified the configuration using GitHub's documentation.
+MySQL Setup:
+
+Challenge: Installing MySQL and configuring it correctly with the root password and user privileges proved to be complex.
+Strategy: I referred to MySQL's installation guide and opted for the Developer Default setup type to simplify configuration. I meticulously followed each step, including setting up a secure password and testing MySQL connectivity with command-line tools.
+Documentation and GitHub Repository Setup:
+
+Challenge: Compiling a comprehensive setup document with screenshots and creating a GitHub repository with the necessary files was time-consuming.
+Strategy: I divided the task into manageable steps, documenting each installation phase with screenshots for clarity. For GitHub, I initialized a repository locally, added a .gitignore file, and committed my initial setup.
+In conclusion, while setting up my developer environment posed several challenges, I approached each obstacle with patience and a systematic approach. Researching solutions online, consulting documentation, and leveraging tutorials were instrumental in overcoming these challenges effectively. This experience has not only equipped me with technical skills but also improved my problem-solving abilities in the context of software development.
