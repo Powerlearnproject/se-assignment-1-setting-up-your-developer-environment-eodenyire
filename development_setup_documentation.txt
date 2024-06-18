@@ -69,13 +69,11 @@ Configure Git
 
 Open Git Bash or command prompt.
 Configure your name and email:
-arduino
-Copy code
+
 git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
 Verify the configuration:
-css
-Copy code
+
 git config --global --list
 
 4. Installing MySQL
